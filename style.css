@@ -79,3 +79,6 @@ section{
     border-image-slice: 1;
     background-color: rgb(10, 204, 123);
 }
+footer p{
+    text-align: center;
+}
