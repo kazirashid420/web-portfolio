@@ -57,7 +57,7 @@ section{
     height: 80%;
 }
  .font-color{
-     color: gray;
+     color: #c90fa1;
  }
  .exprience{
      text-align: center;
@@ -81,4 +81,15 @@ section{
 }
 footer p{
     text-align: center;
+}
+.rashid{
+    background-color: green;
+    margin: auto;
+    text-align: center;
+    padding: 10px 20px;
+}
+#fabiha{
+    padding-top: 10px;
+    text-align: center;   
+
 }
