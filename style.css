@@ -84,13 +84,12 @@ body{
      .font-color{
          color: #c90fa1;
      }
-     .exprience{
-         text-align: center;
-     }
+    
      .exprience-area{
-         background-image: url(images/exp-bg.png);
-         background-repeat: no-repeat;
-         background-position: left;
+        background-image: url("images/exp-bg.png");
+        background-repeat: no-repeat;
+        background-position: left;
+        
      }
     #full-stack{
         border-left: 7px solid;
